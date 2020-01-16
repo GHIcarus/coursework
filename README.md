@@ -1,3 +1,3 @@
 # Coursework
 
-Programming assignments from the coursera deep learning course.
+Programming assignments from the coursera deep learning specialization.
